@@ -1,8 +1,4 @@
-Here are a few options for your LinkedIn post, ranging in tone and focus. Choose the one that best fits your style!
-
----
-
-### Option 1: Direct and Technical
+# GeoJSON Validator
 
 Here's a quick and reliable **JavaScript script** I put together for **validating GeoJSON data**. It's essential for ensuring your geospatial data is correctly structured before processing or displaying it.
 
